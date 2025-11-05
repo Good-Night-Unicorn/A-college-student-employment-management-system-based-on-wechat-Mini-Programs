@@ -1,0 +1,368 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FFFFFF",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就业公告详情"
+		}
+	}
+	,{
+		"path": "pages/xuesheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生"
+		}
+	},{
+		"path": "pages/xuesheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "学生"
+		}
+	}
+	,{
+		"path": "pages/xuesheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生"
+		}
+	}
+	,{
+		"path": "pages/qiye/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业"
+		}
+	},{
+		"path": "pages/qiye/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "企业"
+		}
+	}
+	,{
+		"path": "pages/qiye/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业"
+		}
+	}
+	,{
+		"path": "pages/gangweileixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "岗位类型"
+		}
+	},{
+		"path": "pages/gangweileixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "岗位类型"
+		}
+	}
+	,{
+		"path": "pages/gangweileixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "岗位类型"
+		}
+	}
+	,{
+		"path": "pages/zhaopinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "招聘信息"
+		}
+	},{
+		"path": "pages/zhaopinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "招聘信息"
+		}
+	}
+	,{
+		"path": "pages/zhaopinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "招聘信息"
+		}
+	}
+	,{
+		"path": "pages/yingpinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "应聘信息"
+		}
+	},{
+		"path": "pages/yingpinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "应聘信息"
+		}
+	}
+	,{
+		"path": "pages/yingpinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "应聘信息"
+		}
+	}
+	,{
+		"path": "pages/mianshitongzhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "面试通知"
+		}
+	},{
+		"path": "pages/mianshitongzhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "面试通知"
+		}
+	}
+	,{
+		"path": "pages/mianshitongzhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "面试通知"
+		}
+	}
+	,{
+		"path": "pages/mianshijieguo/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "面试结果"
+		}
+	},{
+		"path": "pages/mianshijieguo/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "面试结果"
+		}
+	}
+	,{
+		"path": "pages/mianshijieguo/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "面试结果"
+		}
+	}
+	,{
+		"path": "pages/chatmessage/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "消息表"
+		}
+	},{
+		"path": "pages/chatmessage/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "消息表"
+		}
+	}
+	,{
+		"path": "pages/chatmessage/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "消息表"
+		}
+	}
+	,{
+		"path": "pages/friend/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "好友表"
+		}
+	},{
+		"path": "pages/friend/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "好友表"
+		}
+	}
+	,{
+		"path": "pages/friend/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "好友表"
+		}
+	}
+	,{
+		"path": "pages/newstype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就业公告分类"
+		}
+	},{
+		"path": "pages/newstype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "就业公告分类"
+		}
+	}
+	,{
+		"path": "pages/newstype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就业公告分类"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "就业公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "就业公告"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E9E9E9",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#5051B5",
+			"navigationBarTextStyle": "white"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "基于微信小程序的大学生就业管理系统设计与实现",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#CBCBCB",
+		"selectedColor": "#5051B5",
+		"borderStyle": "white",
+		"backgroundColor": "#E2E2E2",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/zhaopinxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "招聘信息"
+			}
+
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
